@@ -1,0 +1,24 @@
+# Claude 개인 설정
+.claude/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# 개인 파일 (수업 자료)
+claude-config-pack-mac.zip
+사용설명서-Mac.html
+
+# 수업 내 다른 프로젝트 폴더
+plusstore-marketing-analytics/
+
+# 생성 결과물 (재현 가능)
+output/
+
+# VSCode 개인 설정 (선택)
+.vscode/
