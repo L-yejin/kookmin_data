@@ -7,7 +7,9 @@
 
 ## 라이브 데모
 
-> 배포 완료 후 URL을 여기에 추가 예정
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pmadashboardpy-qmq7lhgesw4tr3euukrrte.streamlit.app)
+
+**👉 https://pmadashboardpy-qmq7lhgesw4tr3euukrrte.streamlit.app**
 
 ---
 
