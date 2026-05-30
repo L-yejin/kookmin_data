@@ -7,9 +7,9 @@
 
 ## 라이브 데모
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pmadashboardpy-qmq7lhgesw4tr3euukrrte.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://l-yejin-kookmin-data-pma-dashboard.streamlit.app)
 
-**👉 https://pmadashboardpy-qmq7lhgesw4tr3euukrrte.streamlit.app**
+**👉 https://l-yejin-kookmin-data-pma-dashboard.streamlit.app**
 
 ---
 
